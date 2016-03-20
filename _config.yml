@@ -1,0 +1,28 @@
+name: mStudios
+favicon: null
+layout_spectrum: 0.1660233938600868
+typography_spectrum: 0.47736678598448634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7735851937904954
+  lightness: 0.6855006814002991
+  saturation: 0.5225145274307579
+  rhythmicContrast: 0.9846382674295455
+purpose: []
